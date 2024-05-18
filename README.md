@@ -38,4 +38,4 @@ Go clone and run Predict.py.....
 - **Programming Language**: Python
 
 ## Outcome
-The project delivers a predictive tool that recommends the most suitable crop based on specific environmental conditions and soil characteristics. This tool serves as a valuable asset for farmers, agricultural researchers, and policymakers to optimize crop selection, improve agricultural productivity, and support sustainable farming practices.
+The project delivers a predictive tool that recommends the most suitable crop based on specific environmental conditions and soil characteristics. This tool serves as a valuable asset for farmers, agricultural researchers, and policymakers to optimize crop selection, improve agricultural productivity, and support  sustainable farming practices.
